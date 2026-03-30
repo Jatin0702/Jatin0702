@@ -35,10 +35,15 @@ Here are some of the projects I've worked on or am currently working on using Py
 
 **Key Skills:** SQL, Power BI, Python  
 
-### 4. [**Bank Deposit Prediction Dashboard**](https://github.com/Jatin0702/Bank-deposit-prediction)  
+### 3. [**Bank Deposit Prediction Dashboard**](https://github.com/Jatin0702/Bank-deposit-prediction)  
 📌 A project that predicts term deposit subscriptions using machine learning and Power BI. It identifies high-potential customers, optimizes resources, and enhances marketing efficiency with data-driven insights and visualizations.  
 
 **Key Skills:** Python, Machine Learning, Power BI, Data Visualization  
+
+### 4. [**Expense Tracker MCP Server**](https://github.com/Jatin0702/MCP_Server)  
+📌 Built an AI-compatible backend using MCP (Model Context Protocol) to enable LLM-driven expense tracking, including data storage, querying, and category-wise financial summarization.
+
+**Key Skills:** Python, FastMCP, SQLite, aiosqlite, Async Programming
 
 ---
 
